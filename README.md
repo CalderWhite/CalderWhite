@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-:book: I blog about my ideas, projects, and experiences at [calderwhite.medium.com](https://calderwhite.medium.com)     
-:office: Previously @ [Wealthsimple](https://wealthsimple.com/), [SSIMWAVE](https://ssimwave.com), [Magnet Forensics](https://www.magnetforensics.com/)! Check out my [Linkedin](https://www.linkedin.com/in/calderwhite/)!    
+:globe_with_meridians: More about me at my website, [calderwhite.com](https://calderwhite.com)       
 :incoming_envelope: Email me at [calderwhite1@gmail.com](mailto:calderwhite1@gmail.com) I am always open to new discussions!
